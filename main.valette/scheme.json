@@ -1708,7 +1708,7 @@
                 "color_identifier": "white"
             },
             "search_bar_background": {
-                "color_identifier": "clear"
+                "color_identifier": "gray_900"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_750"
@@ -1948,7 +1948,7 @@
             },
             "button_secondary_background": {
                 "color_identifier": "black_blue24",
-                "alpha_multiplier": "0.05"
+                "alpha_multiplier": 0.05
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_300"
@@ -2332,7 +2332,7 @@
                 "color_identifier": "blue_600"
             },
             "search_bar_background": {
-                "color_identifier": "clear"
+                "color_identifier": "white"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_50"
